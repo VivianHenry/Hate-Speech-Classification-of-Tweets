@@ -25,3 +25,5 @@ An overview of the project goals is given below:
 
 ![Screenshot 2023-06-25 at 7 51 06 PM](https://github.com/VivianHenry/Hate-Speech-Classification-of-Tweets/assets/67223688/a6e6852a-5fb9-4c7b-869a-05a144778090)
 
+<img width="800" alt="image" src="https://github.com/VivianHenry/Hate-Speech-Classification-of-Tweets/assets/67223688/a6e6852a-5fb9-4c7b-869a-05a144778090">
+
