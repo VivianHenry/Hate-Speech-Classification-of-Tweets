@@ -23,7 +23,32 @@ An overview of the project goals is given below:
   <li>Testing: In order to quantify their performance, the accuracy, f1-score, fit, and confidence of each model is computed.</li>
 </ol>
 
-![Screenshot 2023-06-25 at 7 51 06 PM](https://github.com/VivianHenry/Hate-Speech-Classification-of-Tweets/assets/67223688/a6e6852a-5fb9-4c7b-869a-05a144778090)
+<h2>Results</h2>
+
+Naïve Bayes
 
 <img width="800" alt="image" src="https://github.com/VivianHenry/Hate-Speech-Classification-of-Tweets/assets/67223688/a6e6852a-5fb9-4c7b-869a-05a144778090">
+
+SVM
+
+<img width="800" alt="image" src="https://github.com/VivianHenry/Hate-Speech-Classification-of-Tweets/assets/67223688/d66ee2f4-aad1-437c-ab84-678a30274a30">
+
+Logistic Regression
+
+<img width="800" alt="image" src="https://github.com/VivianHenry/Hate-Speech-Classification-of-Tweets/assets/67223688/8da9b1b7-0da9-4dfd-8629-7ffe697069a7">
+
+Word Cloud of Positive Non-Hate Words
+
+<img width="800" alt="image" src="https://github.com/VivianHenry/Hate-Speech-Classification-of-Tweets/assets/67223688/799aefa5-dec8-49e0-ae2e-6b3fdec615ab">
+
+Word Cloud of Negative Non-Hate Words
+
+<img width="800" alt="image" src="https://github.com/VivianHenry/Hate-Speech-Classification-of-Tweets/assets/67223688/152db41e-07cf-41bf-b6d5-b6327a7e0802">
+
+Word Cloud of Most Common Words
+
+<img width="800" alt="image" src="https://github.com/VivianHenry/Hate-Speech-Classification-of-Tweets/assets/67223688/aac92773-9d21-4c17-868d-3e21f8fb835d">
+
+
+
 
