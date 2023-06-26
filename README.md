@@ -31,8 +31,8 @@ Naïve Bayes
 
 SVM
 
-<img width="800" alt="image" src="https://github.com/VivianHenry/Hate-Speech-Classification-of-Tweets/assets/67223688/d66ee2f4-aad1-437c-ab84-678a30274a30">
+<img width="800" alt="image" src="https://github.com/VivianHenry/Hate-Speech-Classification-of-Tweets/assets/67223688/8da9b1b7-0da9-4dfd-8629-7ffe697069a7">
 
 Logistic Regression
 
-<img width="800" alt="image" src="https://github.com/VivianHenry/Hate-Speech-Classification-of-Tweets/assets/67223688/8da9b1b7-0da9-4dfd-8629-7ffe697069a7">
+<img width="800" alt="image" src="https://github.com/VivianHenry/Hate-Speech-Classification-of-Tweets/assets/67223688/d66ee2f4-aad1-437c-ab84-678a30274a30">
